@@ -27,7 +27,7 @@ Given a budget tracker without an internet connection:
 [Repo Link](https://github.com/SepidehAyani/pwa_budget_tracker) <br>
 
 ## Demo
-![Deployed App]()
+![Deployed App](https://budget-tracker-app22.herokuapp.com/)
 
 ## Instructions
 - `git clone https://github.com/SepidehAyani/pwa_budget_tracker.git`
