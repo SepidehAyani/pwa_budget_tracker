@@ -12,6 +12,7 @@ So that my account balance is accurate when I am traveling.
 1. [About the Project](#About-The-Project)
 1. [Project Links](#Project-Links)
 1. [Deployed App](#Deployed-App)
+1. [Preview](#Preview)
 1. [Installation](#Installation)
 1. [Contribution Guidelines](#Contribution-Guidelines)
 1. [Project Team](#Project-Team)
@@ -27,7 +28,10 @@ Given a budget tracker without an internet connection:
 [Repo Link](https://github.com/SepidehAyani/pwa_budget_tracker) <br>
 
 ## Demo
-![Deployed App](https://budget-tracker-app22.herokuapp.com/)
+[Deployed App](https://budget-tracker-app22.herokuapp.com/)
+
+## Preview
+![Preview](public/assets/preview.png)
 
 ## Instructions
 - `git clone https://github.com/SepidehAyani/pwa_budget_tracker.git`

@@ -8,7 +8,6 @@ const FILES_TO_CACHE = [
   `/db.js`,
   `/index.js`,
   `/manifest.webmanifest`,
-  `/assets/dollar.png`,
   `/style.css`,
 ];
 
