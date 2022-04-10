@@ -8,8 +8,6 @@ const request = indexedDB.open(`budget`, 1);
 request.onupgradeneeded = event => {
   const db = request.result;
 
-  // create object store called "pending" and set autoIncrement to true
-  // const db = event.target.result;
   console.log(event);
 
   if (!db.objectStoreNames.contains(pendingObjectStoreName)) {
